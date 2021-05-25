@@ -9,7 +9,7 @@ Link para meu perfil na Digital Innovation One (DIO):
 </a>
 
 Link para baixar meu certificado na DIO:
-<a href="https://certificates.digitalinnovation.one/ID_DO_CERTIFICADO">
+<a href="https://certificates.digitalinnovation.one/EAC01998">
   perfil
 </a>
 
